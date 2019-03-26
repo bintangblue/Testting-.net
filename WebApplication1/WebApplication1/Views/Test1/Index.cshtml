@@ -1,0 +1,15 @@
+﻿@using WebApplication1.Models;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>test binding</h2>
+@{
+    var data = ViewBag.Message;
+}
+
+<h3>@data.Id</h3>
+<h3>@data.Name</h3>
+<h3>@data.Email</h3>
+
+

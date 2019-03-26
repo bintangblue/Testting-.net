@@ -1,0 +1,5 @@
+C:\Users\dev02\Source\Repos\Core1\TestingWebApp\bin\Debug\netcoreapp2.1\TestingWebApp.deps.json
+C:\Users\dev02\Source\Repos\Core1\TestingWebApp\bin\Debug\netcoreapp2.1\TestingWebApp.dll
+C:\Users\dev02\Source\Repos\Core1\TestingWebApp\obj\Debug\netcoreapp2.1\TestingWebApp.csproj.CoreCompileInputs.cache
+C:\Users\dev02\Source\Repos\Core1\TestingWebApp\obj\Debug\netcoreapp2.1\TestingWebApp.AssemblyInfoInputs.cache
+C:\Users\dev02\Source\Repos\Core1\TestingWebApp\obj\Debug\netcoreapp2.1\TestingWebApp.AssemblyInfo.cs

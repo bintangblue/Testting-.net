@@ -1,0 +1,7 @@
+C:\Users\dev02\Source\Repos\AppCollection\AppCollection\bin\Debug\AppCollection.exe.config
+C:\Users\dev02\Source\Repos\AppCollection\AppCollection\bin\Debug\AppCollection.exe
+C:\Users\dev02\Source\Repos\AppCollection\AppCollection\bin\Debug\AppCollection.pdb
+C:\Users\dev02\Source\Repos\AppCollection\AppCollection\obj\Debug\AppCollection.csprojAssemblyReference.cache
+C:\Users\dev02\Source\Repos\AppCollection\AppCollection\obj\Debug\AppCollection.csproj.CoreCompileInputs.cache
+C:\Users\dev02\Source\Repos\AppCollection\AppCollection\obj\Debug\AppCollection.exe
+C:\Users\dev02\Source\Repos\AppCollection\AppCollection\obj\Debug\AppCollection.pdb
